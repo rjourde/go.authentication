@@ -6,6 +6,8 @@
 # Folders
 _obj
 _test
+github.com
+code.google.com
 
 # Architecture specific extensions/prefixes
 *.[568vq]
@@ -20,3 +22,5 @@ _cgo_export.*
 _testmain.go
 
 *.exe
+
+.DS_Store
